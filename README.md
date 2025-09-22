@@ -17,3 +17,6 @@ waste a week finding 50 of them for fun though
 2. important to know is this is for shauns voice modules not discord voice patcher's so this is more for yelling china and ice 40 times per day, make sure you are using his modules I attached them to the repository just in case you didnt have them you can just download them off of it
 
 3. make sure you close discord before running the injector so it actually loads with discord
+
+AND FOR ANY OTHER INFORMATION 
+DISCORD - nox.staytrue
